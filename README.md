@@ -6,8 +6,8 @@ StoryPolis is a mobile application designed to provide writers and poets with a 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Dependency](#dependency)
+- [Installation](#installation)
 
 ## Features
 - **Real-time Story Sharing:** Allows users to publish and share their creative works in a real-time feed.
