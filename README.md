@@ -1,11 +1,10 @@
-# Stellar: Space Exploration Info App
+# StoryPolis: A Story Writing App
 
-Stellar is an educational app built to provide users with fascinating information about space. It uses NASA's API to display daily pictures, spacecraft information, and star maps. The app features a clean, intuitive interface for users to explore the wonders of the universe.
+StoryPolis is a mobile application designed to provide writers and poets with a platform to publish and share their stories and poems in real time. Built with JavaScript, React Native, and Firebase, the app offers an engaging and responsive user experience with secure user authentication and real-time content synchronization.
 
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Dependency](#dependency)
@@ -30,18 +29,19 @@ Make sure you have the following installed on your machine:
 - https://snack.expo.dev/
 
 ## DEPENDENCY
-    "axios": "^0.26.0",
-    "expo-status-bar": "~1.4.0",
-    "react-native-maps": "0.31.1",
-    "react-native-screens": "~3.15.0",
-    "react-native-webview": "11.23.0",
-    "@react-navigation/stack": "^6.1.1",
-    "react-native-reanimated": "~2.9.1",
-    "@react-navigation/native": "^6.0.8",
-    "react-native-gesture-handler": "~2.5.0",
-    "react-native-safe-area-context": "4.3.1",
-    "@react-native-community/masked-view": "^0.1.11"
-
+    "firebase": "8.2.3",
+    "firebasejs": "^1.1.4",
+    "@firebase/app": "0.x.0",
+    "@firebase/util": "^1.4.0",
+    "expo-constants": "~11.0.2",
+    "expo-status-bar": "~1.0.4",
+    "react-navigation": "*",
+    "@expo/vector-icons": "^12.0.0",
+    "@firebase/database": "^0.12.1",
+    "react-native-paper": "3.6.0",
+    "@firebase/firestore": "*",
+    "@react-navigation/native": "^3.8.4",
+    "react-native-gesture-handler": "^1.10.3"
 
 ### Installation
 Open this link: https://snack.expo.dev/
@@ -53,6 +53,6 @@ then paste the link of GitHub repository "https://github.com/BhishmaGaudani/Stel
 Open this link: https://snack.expo.dev/
 then press on the vertical ellipsis
 then select "Import git repository"
-then paste the link of GitHub repository "https://github.com/BhishmaGaudani/Stellar"
+then paste the link of GitHub repository "https://github.com/BhishmaGaudani/storypolis"
 then click on IOS on right hand side
 
